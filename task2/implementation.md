@@ -121,5 +121,5 @@ Separate listener microservices per chain:
 
 ## 📄 Diagrams
 
-### ✅ [Architecture Diagram](https://github.com/onchain-txn/assets/blob/main/multichain_push_architecture.png?raw=true)
-![Multichain Push Architecture](https://github.com/onchain-txn/assets/blob/main/multichain_push_architecture.png?raw=true)
+### ✅ [Architecture Diagram](https://github.com/nitsaw09/demo-task/blob/main/task2/assets/multichain_push_architecture.png)
+![Multichain Push Architecture](https://github.com/nitsaw09/demo-task/blob/main/task2/assets/multichain_push_architecture.png)
